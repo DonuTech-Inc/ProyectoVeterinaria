@@ -82,3 +82,5 @@ out/
 ### VS Code ###
 .vscode/
 
+# React Native (iOS)
+ios/Pods/
